@@ -9,7 +9,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>https://github.com/zenden2k/context-menu-launcher/blob/master/LICENSE</licenseUrl>
     <projectUrl>http://zenden2k.com/blog/2015/07/26/how-to-pass-multiple-files-to-shell-context-menu-command-windows-explorer-10</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/xmha97/chocolatey-repo-packages/master/icons/singleinstance.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/xmha97/chocolatey-coreteampackages/master/icons/singleinstance.png</iconUrl>
     <description>The main idea is that one instance of my program will be launched per file you have selected. It is checking if another instance of singleinstance program is running, and using Inter-Process Communication to notify the existing instance that other files have been selected.
 
 Do not forget to set registry option MultiSelectModel=Player, otherwise number of files will be limited.
@@ -36,7 +36,7 @@ Windows Registry Editor Version 5.00
     <releaseNotes>https://github.com/zenden2k/context-menu-launcher/commits/master</releaseNotes>
     <copyright>© 2015 Sergey Svistunov</copyright>
     <tags>windows open-source</tags>
-    <packageSourceUrl>https://github.com/xmha97/chocolatey-repo-packages/tree/master/automatic/singleinstance</packageSourceUrl>
+    <packageSourceUrl>https://github.com/xmha97/chocolatey-coreteampackages/tree/master/automatic/singleinstance</packageSourceUrl>
     <bugTrackerUrl>https://github.com/zenden2k/context-menu-launcher/issues</bugTrackerUrl>
     <projectSourceUrl>https://github.com/zenden2k/context-menu-launcher</projectSourceUrl>
   </metadata>

@@ -9,13 +9,13 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>https://github.com/xmha97/donyacalendar-cli/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://xmha97.github.io/site/#donyacalendar-cli</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/xmha97/chocolatey-repo-packages/master/icons/donyacalendar-cli.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/xmha97/chocolatey-coreteampackages/master/icons/donyacalendar-cli.png</iconUrl>
     <description>Free and open-source calendar for command line interface (CLI)</description>
     <summary>Global Calendar for CLI</summary>
     <releaseNotes>https://github.com/xmha97/donyacalendar-cli/commits/master</releaseNotes>
     <copyright>Copyright © Muhammad Hussein Ammari 2020</copyright>
     <tags>Calendar Jalali-Calendar Persian-Calendar</tags>
-    <packageSourceUrl>https://github.com/xmha97/chocolatey-repo-packages/tree/master/automatic/donyacalendar-cli</packageSourceUrl>
+    <packageSourceUrl>https://github.com/xmha97/chocolatey-coreteampackages/tree/master/automatic/donyacalendar-cli</packageSourceUrl>
     <docsUrl>https://github.com/xmha97/donyacalendar-cli/wiki</docsUrl>
     <mailingListUrl>https://gitter.im/donyacalendar-cli/community</mailingListUrl>
     <bugTrackerUrl>https://github.com/xmha97/donyacalendar-cli/issues</bugTrackerUrl>
