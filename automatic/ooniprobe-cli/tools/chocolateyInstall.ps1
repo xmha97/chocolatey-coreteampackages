@@ -1,7 +1,7 @@
 $packageName    = 'ooniprobe-cli'
-$url            = 'https://github.com/ooni/probe-cli/releases/download/v3.0.7-beta.1/ooniprobe_v3.0.7-beta.1_windows_amd64.zip'
+$url            = 'https://github.com/ooni/probe-cli/releases/download/v3.0.7/ooniprobe_v3.0.7_windows_amd64.zip'
 $toolsDir       = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$checksum       = '809603ba1ad008213d2f9981f184d7d20b5944599d58474f71494a411f57960e'
+$checksum       = '02d86a5a8494c63949cf81934ae2090ceae526bf54565489fee336cd10f546eb'
 $checksumType   = 'sha256'
 
 Install-ChocolateyZipPackage `

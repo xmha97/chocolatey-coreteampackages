@@ -2,13 +2,13 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>donyacalendar-cli</id>
-    <version>1.0.0</version>
+    <version>1.0.0.1</version>
     <title>Donya Calendar CLI</title>
     <authors>Muhammad Hussein Ammari</authors>
     <owners>Muhammad Hussein Ammari</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>https://github.com/xmha97/donyacalendar-cli/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://xmha97.github.io/site/#donyacalendar-cli</projectUrl>
+    <projectUrl>https://xmha97.github.io/#donyacalendar-cli</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/xmha97/chocolatey-coreteampackages/master/icons/donyacalendar-cli.png</iconUrl>
     <description>Free and open-source calendar for command line interface (CLI)</description>
     <summary>Global Calendar for CLI</summary>
