@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ticktick</id>
+    <version>3.7.2.0</version>
+    <title>TickTick</title>
+    <authors>Appest Inc.</authors>
+    <owners>Muhammad Hussein Ammari</owners>
+    <licenseUrl>https://ticktick.com/about/license/web</licenseUrl>
+    <projectUrl>http://ticktick.com</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/xmha97/chocolatey-coreteampackages/master/icons/ticktick.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>TickTick is a simple and effective to-do list and task manager app which helps you make schedule, manage time, stay focused, remind about deadlines and organize life at home, work and everywhere else.</description>
+    <summary>Calendar, Reminders, Habit</summary>
+    <copyright>© 2020 TickTick Team</copyright>
+    <tags>ticktick admin todo task manager</tags>
+    <packageSourceUrl>https://github.com/xmha97/chocolatey-coreteampackages/tree/master/automatic/ticktick</packageSourceUrl>
+    <docsUrl>https://support.ticktick.com/</docsUrl>
+  </metadata>
+</package>
