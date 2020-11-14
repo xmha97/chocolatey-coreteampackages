@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>vazir-font</id>
+    <version>26.0.2</version>
+    <title>Vazir font</title>
+    <authors>Saber Rastikerdar</authors>
+    <owners>Muhammad Hussein Ammari</owners>
+    <licenseUrl>https://github.com/rastikerdar/vazir-font/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://rastikerdar.github.io/vazir-font/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/xmha97/chocolatey-coreteampackages/master/icons/vazir-font.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>a Free font for Arabic-script languages including Persian (Farsi), Arabic, Kurdish (Sorani), Pashto, Urdu and Gilaki languages.</description>
+    <summary>Vazir open-source font.</summary>
+    <tags>font vazir saberrastikerdar</tags>
+    <projectSourceUrl>https://github.com/rastikerdar/vazir-font/</projectSourceUrl>
+    <packageSourceUrl>https://github.com/xmha97/chocolatey-coreteampackages/tree/master/automatic/vazir-font</packageSourceUrl>
+    <docsUrl>https://github.com/rastikerdar/vazir-font/blob/master/HELP.md</docsUrl>
+    <bugTrackerUrl>https://github.com/rastikerdar/vazir-font/issues</bugTrackerUrl>
+    <dependencies>
+      <dependency id="chocolatey-font-helpers.extension" />
+    </dependencies>
+  </metadata>
+</package>
