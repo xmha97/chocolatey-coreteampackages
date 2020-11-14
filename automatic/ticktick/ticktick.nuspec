@@ -12,6 +12,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>TickTick is a simple and effective to-do list and task manager app which helps you make schedule, manage time, stay focused, remind about deadlines and organize life at home, work and everywhere else.</description>
     <summary>Calendar, Reminders, Habit</summary>
+    <releaseNotes>https://ticktick.com/public/changelog/en.html</releaseNotes>
     <copyright>© 2020 TickTick Team</copyright>
     <tags>ticktick admin todo task manager</tags>
     <packageSourceUrl>https://github.com/xmha97/chocolatey-coreteampackages/tree/master/automatic/ticktick</packageSourceUrl>
