@@ -12,13 +12,14 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>a Free font for Arabic-script languages including Persian (Farsi), Arabic, Kurdish (Sorani), Pashto, Urdu and Gilaki languages.</description>
     <summary>Vazir open-source font.</summary>
-    <tags>font vazir saberrastikerdar</tags>
+    <releaseNotes>https://github.com/rastikerdar/vazir-font/commits/master</releaseNotes>
+    <tags>font arabic persian farsi kurdish sorani pashto urdu gilaki saberrastikerdar vazir</tags>
     <projectSourceUrl>https://github.com/rastikerdar/vazir-font/</projectSourceUrl>
     <packageSourceUrl>https://github.com/xmha97/chocolatey-coreteampackages/tree/master/automatic/vazir-font</packageSourceUrl>
     <docsUrl>https://github.com/rastikerdar/vazir-font/blob/master/HELP.md</docsUrl>
     <bugTrackerUrl>https://github.com/rastikerdar/vazir-font/issues</bugTrackerUrl>
     <dependencies>
-      <dependency id="chocolatey-font-helpers.extension" />
+      <dependency id="chocolatey-font-helpers.extension" version="0.0.3.1" />
     </dependencies>
   </metadata>
 </package>
