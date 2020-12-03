@@ -6,7 +6,7 @@
     <title>Vazir font</title>
     <authors>Saber Rastikerdar</authors>
     <owners>Muhammad Hussein Ammari</owners>
-    <licenseUrl>https://github.com/rastikerdar/vazir-font/blob/master/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/rastikerdar/vazir-font/blob/master/OFL.txt</licenseUrl>
     <projectUrl>https://rastikerdar.github.io/vazir-font/</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/xmha97/chocolatey-coreteampackages/master/icons/vazir-font.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
