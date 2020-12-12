@@ -16,4 +16,4 @@ $packageArgs = @{
 
 Install-ChocolateyZipPackage @packageArgs
 
-ls $toolsDir\*.ttf -Recurse | foreach {Install-ChocolateyFont $_}
+Install-ChocolateyFont $toolsDir -multiple
