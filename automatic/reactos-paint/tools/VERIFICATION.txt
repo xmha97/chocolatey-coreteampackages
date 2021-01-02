@@ -1,0 +1,13 @@
+VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+Homepage: https://reactos.org/
+SHA-256: 85e404da531292c258c1dbe7bd8269a76f1a726170eeb25c7490dc2fb2e3138c
+URL of 'LICENSE.txt': https://raw.githubusercontent.com/reactos/reactos/master/COPYING
+
+SHA-256 can also be obtained in these steps:
+
+ 1. Go to homepage.
+ 2. Under section “Download cfr”, find link with version number.
+ 3. Download the file and verify its checksum.
