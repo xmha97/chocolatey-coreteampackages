@@ -1,6 +1,0 @@
-VERIFICATION
-
-Unfortunately the releases don't contain the checksum file. But you can download
-the ZIP file and create the checksum manually.
-
-https://github.com/rastikerdar/vazir-font/releases
