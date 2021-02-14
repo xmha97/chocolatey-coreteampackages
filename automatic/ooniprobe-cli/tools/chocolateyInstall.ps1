@@ -6,8 +6,8 @@ $baseURL        = "https://github.com/ooni/probe-cli/releases/download/v$env:Cho
 $url            = $baseURL + "_windows_386.zip"
 $url64          = $baseURL + "_windows_amd64.zip"
 
-$checksum       = '6a859c8d24c1e025949c71a60363b1c4302683f648b758c5e6132b7029611665'
-$checksum64     = '4165c0c95a4fc138dcfe836ccf628660fd570ea8e01a1c07655012c85f7d7e93'
+$checksum       = '6084aa77496956f3a80337ee45a4a9dd02d3ef2f5f34353276756a4cbdb1c8bd'
+$checksum64     = '81766535f584c7add83143233f05714e18eb20f78508de02307e1221b5a9c92f'
 
 $checksumType   = 'sha256'
 $checksumType64 = 'sha256'

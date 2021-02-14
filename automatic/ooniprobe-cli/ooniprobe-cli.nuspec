@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>ooniprobe-cli</id>
-    <version>3.4.0</version>
+    <version>3.5.2</version>
     <title>OONI Probe CLI</title>
     <authors>OONI</authors>
     <owners>Muhammad Hussein Ammari</owners>
