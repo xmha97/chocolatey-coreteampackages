@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>vazir-font</id>
-    <version>27.2.0</version>
+    <version>27.2.2</version>
     <title>Vazir font</title>
     <authors>Saber Rastikerdar</authors>
     <owners>Muhammad Hussein Ammari</owners>
