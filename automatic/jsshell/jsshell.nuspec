@@ -3,15 +3,15 @@
   <metadata>
     <id>jsshell</id>
     <version>86.0</version>
-    <title>JS Shell</title>
+    <title>Mozilla JS Shell</title>
     <authors>Mozilla</authors>
     <owners>Muhammad Hussein Ammari</owners>
     <licenseUrl>https://www.mozilla.org/en-US/MPL/2.0/</licenseUrl>
     <projectUrl>https://www.mozilla.org/en-US/firefox/new/</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/xmha97/chocolatey-coreteampackages/master/icons/jsshell.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Mozilla JS Shell</description>
-    <summary>Mozilla JS Shell</summary>
+    <description>The Mozilla JavaScript shell allows you to quickly test snippets of JavaScript code without having to reload a web page. They are extremely useful for developing and debugging code.</description>
+    <summary>Mozilla JavaScript shell</summary>
     <copyright>Copyright © 1998–2021 Mozilla</copyright>
     <tags>mozilla firefox foss cross-platform jsshell</tags>
     <packageSourceUrl>https://github.com/xmha97/chocolatey-coreteampackages/tree/master/automatic/jsshell</packageSourceUrl>
