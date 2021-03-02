@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>jsshell</id>
+    <version>86.0</version>
+    <title>JS Shell</title>
+    <authors>Mozilla</authors>
+    <owners>Muhammad Hussein Ammari</owners>
+    <licenseUrl>https://www.mozilla.org/en-US/MPL/2.0/</licenseUrl>
+    <projectUrl>https://www.mozilla.org/en-US/firefox/new/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/xmha97/chocolatey-coreteampackages/master/icons/jsshell.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Mozilla JS Shell</description>
+    <summary>Mozilla JS Shell</summary>
+    <copyright>Copyright © 1998–2021 Mozilla</copyright>
+    <tags>mozilla firefox foss cross-platform jsshell</tags>
+    <packageSourceUrl>https://github.com/xmha97/chocolatey-coreteampackages/tree/master/automatic/jsshell</packageSourceUrl>
+    <docsUrl>https://developer.mozilla.org/en-US/Firefox</docsUrl>
+    <bugTrackerUrl>https://bugzilla.mozilla.org/</bugTrackerUrl>
+  </metadata>
+</package>
